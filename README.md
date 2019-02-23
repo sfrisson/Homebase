@@ -1,2 +1,2 @@
-# homebase
+# Homebase
 My GitHub root
