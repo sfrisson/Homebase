@@ -1,3 +1,1 @@
-# Homebase
-My GitHub root
-this is repo of certain script I created to facilitate a few task on my linux box.
+# Tthis is repo of certain script I created to facilitate a few task on my linux box.
